@@ -1,0 +1,16 @@
+.justify-start {
+  margin-right: auto;
+}
+
+.justify-end {
+  margin-left: auto;
+}
+
+.red-text {
+  color: red;
+}
+
+.teal-bg {
+  background-color: teal;
+}
+
