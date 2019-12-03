@@ -1,16 +1,22 @@
-.justify-start {
-  margin-right: auto;
+.App {
+  text-align: center;
 }
 
-.justify-end {
-  margin-left: auto;
+.App-logo {
+  height: 40vmin;
 }
 
-.red-text {
-  color: red;
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
 
-.teal-bg {
-  background-color: teal;
+.App-link {
+  color: #09d3ac;
 }
-
